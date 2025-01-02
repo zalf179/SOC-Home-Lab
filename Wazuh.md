@@ -8,7 +8,7 @@ This guide explains how to install the Wazuh server on **Ubuntu Server** step-by
 1. **Ubuntu Server**: Ensure your server is updated.
 2. **Minimum Requirements**:
    - **CPU**: 2 cores.
-   - **RAM**: 4 GB (8 GB recommended for production).
+   - **RAM**: 4 GB (8 GB recommended).
    - **Storage**: 50 GB free space.
 3. **Privileges**: You need root or sudo access.
 
