@@ -1,4 +1,4 @@
-### Installing Wazuh on Ubuntu Server
+### Installing ELK Stack on Ubuntu Server
 
 This guide explains how to install the Wazuh server on **Ubuntu Server** step-by-step.
 
