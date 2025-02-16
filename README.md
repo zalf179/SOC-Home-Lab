@@ -8,7 +8,7 @@ SOC home lab is a personal, simulated environment set up for learning, practicin
 
 1. SIEM (Security Information and Event Management):
 
-    Tool: Wazuh
+    Tool: Elk Stack (Elastic,Logstash,Kibana)
   
     Function: Collect, store, and analyze security logs from various sources.
   
