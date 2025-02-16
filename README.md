@@ -12,8 +12,9 @@ SOC home lab is a personal, simulated environment set up for learning, practicin
   
     Function: Collect, store, and analyze security logs from various sources.
   
-    Position: Central log management and core analytics.
+    Position: Server (ubuntu).
 
+  - [Installation Guide](https://github.com/zalf179/SOC-Home-Lab)  
 
 2. EDR (Endpoint Detection and Response):
 
@@ -22,7 +23,8 @@ SOC home lab is a personal, simulated environment set up for learning, practicin
     Function: Monitor endpoint activity in real-time, detect anomalous behavior, and provide an initial response.
   
     Position: At each endpoint (server, workstation).
-
+   
+- [Installation Guide](https://github.com/zalf179/SOC-Home-Lab)
 
 3. IDS/IPS (Intrusion Detection/Prevention System):
 
@@ -31,3 +33,5 @@ SOC home lab is a personal, simulated environment set up for learning, practicin
     Function: Detect malicious traffic.
   
     Position: At each endpoint (server, workstation).
+   
+- [Installation Guide](https://github.com/zalf179/SOC-Home-Lab)
