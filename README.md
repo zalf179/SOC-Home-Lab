@@ -14,7 +14,7 @@ SOC home lab is a personal, simulated environment set up for learning, practicin
   
     Position: Server (ubuntu).
 
-  - [Installation Guide](https://github.com/zalf179/SOC-Home-Lab)  
+  - [Installation Guide](https://github.com/zalf179/SOC-Home-Lab/blob/main/Wazuh.md)  
 
 2. EDR (Endpoint Detection and Response):
 
