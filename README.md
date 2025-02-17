@@ -14,7 +14,8 @@ SOC home lab is a personal, simulated environment set up for learning, practicin
   
     Position: Server (ubuntu).
 
-  - [Installation Guide](https://medium.com/@indofrick/install-elk-stack-on-ubuntu-server-2ef22fb932be)  
+  - [Installation Guide](https://medium.com/@indofrick/install-elk-stack-on-ubuntu-server-2ef22fb932be)
+    
 
 2. EDR (Endpoint Detection and Response):
 
@@ -25,6 +26,7 @@ SOC home lab is a personal, simulated environment set up for learning, practicin
     Position: At each endpoint (server, workstation).
    
 - [Installation Guide](https://github.com/zalf179/SOC-Home-Lab)
+  
 
 3. IDS/IPS (Intrusion Detection/Prevention System):
 
